@@ -1,0 +1,130 @@
+{
+  "name": "Zero",
+  "description": "A calm, nature-inspired theme based on the ZeroRFI design system. Forest greens, soft mint highlights, and warm paper tones.",
+  "author": "ZeroRFI",
+  "isDark": false,
+  "uiAppearance": "light",
+  "interface": {
+    "globalBackground": "#E8E6DF",
+    "globalTint": "#5C7E54",
+    "textColor": "#21382D",
+    "secondaryTextColor": "#5C7E54",
+    "highlightColor": "#BDEAD4",
+    "destructiveColor": "#CC4444",
+    "separatorColor": "#D0CEC7",
+    "navigationBarBackground": "#E8E6DF",
+    "navigationBarTint": "#5C7E54",
+    "tabBarBackground": "#E8E6DF",
+    "tabBarTint": "#5C7E54",
+    "toolbarBackground": "#E8E6DF",
+    "toolbarTint": "#5C7E54",
+    "listBackground": "#FFFFFF",
+    "listHighlightColor": "#BDEAD4",
+    "draftListBackground": "#FFFFFF",
+    "draftListTint": "#5C7E54",
+    "draftListHighlightBackground": "#BDEAD4",
+    "draftListHighlightTint": "#21382D",
+    "draftListFlaggedBackground": "#D5F0E4",
+    "draftListFlaggedTint": "#21382D",
+    "draftListTextColor": "#21382D",
+    "draftListSecondaryTextColor": "#5C7E54",
+    "draftListModifiedTextColor": "#5C7E54"
+  },
+  "editor": {
+    "backgroundColor": "#E8E6DF",
+    "lineHighlightColor": "#F0EDE8",
+    "cursorColor": "#5C7E54",
+    "selectionColor": "#BDEAD4",
+    "textColor": "#21382D",
+    "placeholderTextColor": "#8FAF88",
+    "copyBundleSyntax": "Markdown",
+    "lineSpacing": 1.4,
+    "paragraphSpacing": 6,
+    "baseFontSize": 16,
+    "autoSizeBodyFontFromLength": false
+  },
+  "syntaxHighlighting": {
+    "normal": {
+      "color": "#21382D"
+    },
+    "header1": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "header2": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "header3": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "header4": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "header5": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "header6": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "bold": {
+      "color": "#21382D",
+      "bold": true
+    },
+    "italic": {
+      "color": "#21382D",
+      "italic": true
+    },
+    "boldItalic": {
+      "color": "#21382D",
+      "bold": true,
+      "italic": true
+    },
+    "link": {
+      "color": "#5C7E54"
+    },
+    "linkText": {
+      "color": "#5C7E54"
+    },
+    "image": {
+      "color": "#5C7E54"
+    },
+    "inlineCode": {
+      "color": "#5C7E54"
+    },
+    "code": {
+      "color": "#5C7E54"
+    },
+    "codeBackground": "#D5F0E4",
+    "blockquote": {
+      "color": "#5C7E54",
+      "italic": true
+    },
+    "listBullet": {
+      "color": "#5C7E54"
+    },
+    "listItem": {
+      "color": "#21382D"
+    },
+    "frontMatter": {
+      "color": "#5C7E54"
+    },
+    "tag": {
+      "color": "#5C7E54"
+    },
+    "footnote": {
+      "color": "#5C7E54"
+    },
+    "strikethrough": {
+      "color": "#8FAF88"
+    },
+    "highlight": {
+      "color": "#21382D"
+    },
+    "highlightBackground": "#BDEAD4"
+  }
+}
